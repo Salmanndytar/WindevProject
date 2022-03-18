@@ -1,0 +1,14 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Service		NFI		nouveau fichier
+Hopital		NFI		nouveau fichier
+PriseDeSang		NFI		nouveau fichier
+GroupeSang		NFI		nouveau fichier
+Patient		NFI		nouveau fichier
+Demande		NFI		nouveau fichier
+DetailsDemande		NFI		nouveau fichier
+Contrainte_Service_Hopital		NWL	Hopital (IDHopital) et Service (IDHopital)	Nouvelle liaison entre les fichiers Hopital (IDHopital) et Service (IDHopital)
+Contrainte_Patient_GroupeSang		NWL	GroupeSang (IDGroupeSang) et Patient (IDGroupeSang)	Nouvelle liaison entre les fichiers GroupeSang (IDGroupeSang) et Patient (IDGroupeSang)
+Contrainte_Patient_PriseDeSang		NWL	Patient (IDPatient) et PriseDeSang (IDPatient)	Nouvelle liaison entre les fichiers Patient (IDPatient) et PriseDeSang (IDPatient)
+Contrainte_DetailsDemande_Demande		NWL	Demande (IDDemande) et DetailsDemande (IDDemande)	Nouvelle liaison entre les fichiers Demande (IDDemande) et DetailsDemande (IDDemande)
+Contrainte_Service_Demande		NWL	Service (IDService) et Demande (IDService)	Nouvelle liaison entre les fichiers Service (IDService) et Demande (IDService)
+Contrainte_GroupeSang_DetailsDemande		NWL	GroupeSang (IDGroupeSang) et DetailsDemande (IDGroupeSang)	Nouvelle liaison entre les fichiers GroupeSang (IDGroupeSang) et DetailsDemande (IDGroupeSang)

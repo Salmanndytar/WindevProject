@@ -1,0 +1,7 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=E	;Analysis GUID
+LOCALIZATION_UTF8=AFC8DAA1956342EE83F4C11C1D1D91CC	Hopital	C:\Mes Projets\BanqueDeSang\Exe\Hopital.fic
+LOCALIZATION_UTF8=2E840D094DF945E983310E25A0205909	Service	C:\Mes Projets\BanqueDeSang\Exe\Service.fic
+LOCALIZATION_UTF8=09B8C9C952A34460908356F1847D6671	Demande	C:\Mes Projets\BanqueDeSang\Exe\Demande.fic
+LOCALIZATION_UTF8=D69445C55CF743E486709D719D2C937B	GroupeSang	C:\Mes Projets\BanqueDeSang\Exe\GroupeSang.fic
